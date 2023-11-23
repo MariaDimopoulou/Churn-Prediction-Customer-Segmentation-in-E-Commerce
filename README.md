@@ -22,18 +22,6 @@ This project focuses on predicting customer churn in an online retail company us
 - **DBSCAN**: Demonstrated less accurate clustering.
 - **Hierarchical Clustering**: Used for visualizing dendrogram structure.
 
-## Files Overview
-
-- `Untitled4.ipynb`: Jupyter notebook containing code and detailed explanations.
-- `E Commerce Dataset.xlsx`: Dataset used for analysis.
-- `README.md`: Overview of the project and instructions.
-
-## How to Use
-
-1. Open `Untitled4.ipynb` for detailed code, analysis, and results.
-2. Download and explore the `E Commerce Dataset.xlsx` file.
-3. Refer to `README.md` for project overview and details.
-
 ## Acknowledgments
 
 - Dataset source: [Kaggle](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction).
